@@ -4,7 +4,7 @@
 - 👀 I’m Web / Mobile Full Stack Developer, Machine Learning Practitioner, Open Source Enthusiast, Life Long Learner.
 - 🌱 I’m currently upgrading Skills :
 
-  * ⚡ Develop highly interactive UI and UX for Both web applications and Mobile applications
+  * ⚡ Develop highly interactive UI and UX for Both web applications and Mobile applications using Adobe XD
   * ⚡ Building responsive Android/IOS applications front end using Flutter
   * ⚡ Building responsive website front end using ReactJS :p
   * ⚡ Creating application backend in Node, Express, Django and Fast-API
