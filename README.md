@@ -6,7 +6,7 @@
 
   * ⚡ Develop highly interactive UI and UX for Both web applications and Mobile applications using Adobe XD
   * ⚡ Building responsive Android/IOS applications front end using Flutter
-  * ⚡ Building responsive website front end using ReactJS :p
+  * ⚡ Building responsive website front end using ReactJS 
   * ⚡ Creating application backend in Node, Express, Django and Fast-API
   * ⚡ Integration of third party services such as Firebase/ AWS
   * 
