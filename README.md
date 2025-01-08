@@ -1,21 +1,3 @@
+### Hi there  👋
 
-- 👋 Hi, I’m @Hamzadaboussi
-- 🎓 Specialist in Software Engineering 🇹🇳
-- 👀 I’m a Web/Mobile Full Stack Developer Practitioner, Open Source Enthusiast, and Lifelong Learner.
-- 🌱 I’m currently upgrading my skills in:
-
-  * ⚡ Developing highly interactive UI and UX for both web and mobile applications using Adobe XD
-  * ⚡ Building clean, usable, and scalable software
-  * ⚡ Strong knowledge in software testing (Unit, UI, performance testing)
-  * ⚡ Strong communication skills
-
-- 💞️ I’m looking to collaborate on exciting projects and innovative solutions.
-- 📫 How to reach me:
-  * [LinkedIn](https://www.linkedin.com/in/daboussi-hamza-73a322216/)
-  * Gmail: hamzadaboussi7@gmail.com
-  * [Facebook](https://www.facebook.com/hamza.daboussi.35)
-  
-<!---
-Hamzadaboussi/Hamzadaboussi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="github-snake.svg" /> </picture> <p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamzadaboussi&show_icons=true&locale=en" alt="Hamzadaboussi's GitHub stats" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Hamzadaboussi&show_icons=true&locale=en&layout=compact" alt="Hamzadaboussi's top languages'" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Hamzadaboussi" alt="Hamzadaboussi's GitHub trophies'" /> </p>
